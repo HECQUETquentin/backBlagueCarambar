@@ -1,7 +1,7 @@
 const data = [
     {
         id: 0,
-        question: "Quelle est la femelle du hamster",
+        question: "Quelle est la femelle du hamster ?",
         answer: "L'Amsterdam"
     },
     {
@@ -31,7 +31,7 @@ const data = [
     },
     {
         id: 6,
-        question: "Quel est le comble pour un marin",
+        question: "Quel est le comble pour un marin ?",
         answer: "Avoir le nez qui coule !"
     },
     {
@@ -46,7 +46,7 @@ const data = [
     },
     {
         id: 9,
-        question: "Quel est le comble pour un joueur de bowling",
+        question: "Quel est le comble pour un joueur de bowling ?",
         answer: "C'est de perdre la boule !"
     }
 ]
