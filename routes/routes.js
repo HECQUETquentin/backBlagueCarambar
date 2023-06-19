@@ -28,7 +28,7 @@ router.get("/findJokeById/:id", controller.findJokeById)
  * @swagger
  * /api/v1/getRandomJoke:
  *  get:
- *    description: affichage d'une blague dans celle inscrite dans la base
+ *    description: affichage aléatoire d'une blague inscrite dans la base
  *    responses:
  *      '200':
  *        description: A successful response
