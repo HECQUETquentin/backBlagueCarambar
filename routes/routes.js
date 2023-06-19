@@ -15,7 +15,7 @@ router.get("/findAllJokes", controller.findAllJokes)
 
 /**
  * @swagger
- * /api/v1/findAllJokes:
+ * /api/v1/findJokeById:
  *  get:
  *    description: affichage d'une blague en fonction de son id
  *    responses:
