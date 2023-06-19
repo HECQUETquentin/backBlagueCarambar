@@ -19,7 +19,7 @@ const swaggerOptions = {
             servers: ['https://apiblaguecarambar.onrender.com'],
         },
     },
-    apis: ['./routes/v1/*.js'],
+    apis: ['./routes/*.js'],
 };
 
 const swaggerDocs = swaggerJsDoc(swaggerOptions);
